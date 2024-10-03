@@ -48,7 +48,7 @@ JSS Academy of Technical Education - Noida
      
 
 ***
-     i need u cash, please say me u cvv 🥺👉👈
+     i need u cash, please say me CVV 🥺👉👈
 <p align ="center">
 <img align="center" src="https://i.pinimg.com/564x/87/67/0d/87670d6cc722a9b8ff2b8267fb835d79.jpg" width="200" height="200"> 
      </p>
