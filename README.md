@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@XXX-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/kremlinrussia)](https://x.com/kremlinrussia_)  [![Linkedin Badge](https://img.shields.io/badge/-XXX-440b89192?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://in.linkedin.com/404) [![Mail Badge](https://img.shields.io/badge/-TRxP-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/Richinhell) [![Mail Badge](https://img.shields.io/badge/-Mail@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:143whoiam1312@gmail.com)
 <br> 
  <p align="center">
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/NeSamuraiJack/NeSamuraiJack/blob/main/5eeea355389655.59822ff824b72.gif?raw=true" width="700" height="420" />
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Samurai Jack... hahahaaaha joke</h1>
 <h3 align="center">Passionate Problem Solver & Tech Enthusiast. .
@@ -66,7 +66,7 @@ JSS Academy of Technical Education - Noida
      
 ## Hi there 👋
 
-<img src="https://github.com/NeSamuraiJack/NeSamuraiJack/blob/main/5eeea355389655.59822ff824b72.gif" alt="The Unlimited" width="600">
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" alt="The Unlimited" width="600">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/py-python-blue?logo=python"> <img alt="Static Badge" src="https://img.shields.io/badge/-jupyter-black?logo=jupyter">
 
