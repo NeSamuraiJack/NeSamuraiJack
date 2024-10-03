@@ -64,9 +64,5 @@ JSS Academy of Technical Education - Noida
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/VasudevJaiswal/count.svg) -->
 
-
-
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" alt="The Unlimited" width="600">
-
 <img alt="Static Badge" src="https://img.shields.io/badge/py-python-blue?logo=python"> <img alt="Static Badge" src="https://img.shields.io/badge/-jupyter-black?logo=jupyter">
 
