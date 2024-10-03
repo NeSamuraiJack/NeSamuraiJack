@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+Github+Profile+I'm+Not+A+Samurai+Jack..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&width=400&lines=Welcome+To+My+Github+Profile+I'm+Not+A+Samurai+Jack..)](https://git.io/typing-svg)
 
-[![Twitter Badge](https://img.shields.io/badge/-@XXX-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=[https://x.com/kremlinrussia](https://x.com/kremlinrussia) [![Linkedin Badge](https://img.shields.io/badge/-XXX-440b89192?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://in.linkedin.com/404) [![Mail Badge](https://img.shields.io/badge/-TRxP-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/Richinhell) [![Mail Badge](https://img.shields.io/badge/-Mail@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:143whoiam1312@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@XXX-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/kremlinrussia)](https://x.com/kremlinrussia_)  [![Linkedin Badge](https://img.shields.io/badge/-XXX-440b89192?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://in.linkedin.com/404) [![Mail Badge](https://img.shields.io/badge/-TRxP-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/Richinhell) [![Mail Badge](https://img.shields.io/badge/-Mail@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:143whoiam1312@gmail.com)
 <br> 
  <p align="center">
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
