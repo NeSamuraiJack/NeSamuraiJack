@@ -31,7 +31,7 @@ JSS Academy of Technical Education - Noida
 6. **Weather Forecasting Web App:** Utilizing HTML, CSS, and JavaScript for accurate weather predictions.
 
 🛠️ **Skills:**
-- **Languages:** Java, HTML, CSS, JavaScript, Python, C, SQL, Node JS
+- **Languages:** Java, HTML, CSS, JavaScript, Pyss..no, Python, C, SQL, Node JS
 - **Frameworks:** React JS, Express JS, TensorFlow
 - **Libraries:** NumPy, Pandas, Sci-kit Learn, Seaborn, Matplotlib
 - **Tools:** VS Code, Postman, MongoDB, GitHub, WordPress, Canva
