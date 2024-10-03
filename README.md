@@ -50,7 +50,7 @@ JSS Academy of Technical Education - Noida
 ***
      i need u cash, please say me u cvv 🥺👉👈
 <p align ="center">
-<a href="https://www.buymeacoffee.com/VasudevJaiswal" target="_blank"><img src="https://www.vecteezy.com/png/21432994-scam-rubber-stamp">scam, rubber stamp PNGs by Vecteezy</a>" alt="NOT SCAM" width="150" ></a>
+<a href="https://www.vecteezy.com/png/21432994-scam-rubber-stamp">scam, rubber stamp PNGs by Vecteezy</a>
      </p>
  <p align="center">
   <i>Let's connect and chat! Open to anything under the sun thank you.</i>
