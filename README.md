@@ -50,7 +50,7 @@ JSS Academy of Technical Education - Noida
 ***
      i need u cash, please say me u cvv 🥺👉👈
 <p align ="center">
-<img align="center" src="https://w7.pngwing.com/pngs/789/80/png-transparent-pirate-flag-jolly-roger-piracy-flag-pirate-flag-flag-people-sticker-thumbnail.png" width="200" height="200"> 
+<img align="center" src="https://i.pinimg.com/564x/87/67/0d/87670d6cc722a9b8ff2b8267fb835d79.jpg" width="200" height="200"> 
      </p>
  <p align="center">
   <i>Let's connect and chat! Open to anything under the sun thank you.</i>
