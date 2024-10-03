@@ -56,15 +56,13 @@ JSS Academy of Technical Education - Noida
   <i>Let's connect and chat! Open to anything under the sun thank you.</i>
 
   <p align="center">
-    <a href="https://twitter.com/VasudevJaiswal_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/twitter-fill.svg"></a>
-    <a href="https://in.linkedin.com/in/VasudevJaiswal" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/linkedin-fill.svg"></a>
-    <a href="mailto:vasujaiswal00@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/mail-fill.svg"></a>
-    <a href="https://vasudevjaiswal.github.io/MyPortfolio/" alt="My site"><img 
+    <a href="https://x.com/kremlinrussia" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/twitter-fill.svg"></a>
+    <a href="https://in.linkedin.com/404" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/linkedin-fill.svg"></a>
+    <a href="mailto:143whoiam1312@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/a7a82fe5586c5a4c293dc393b87d9c66df682b0b/readme/mail-fill.svg"></a>
+    <a href="https://NeSamuraiJack.github.io/MyPortfolio/" alt="My site"><img 
 <br/>
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/VasudevJaiswal/count.svg) -->
-     
-## Hi there 👋
 
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" alt="The Unlimited" width="600">
 
