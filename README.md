@@ -6,7 +6,7 @@
  <p align="center">
 <img align="center" alt="GIF" src="https://github.com/NeSamuraiJack/NeSamuraiJack/blob/main/5eeea355389655.59822ff824b72.gif?raw=true" width="700" height="420" />
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Samurai Jack... hahahaaaha LMAO This in not ME</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Samurai Jack... hahahaaaha LMAO This is not ME</h1>
 <h3 align="center">Passionate Problem Solver & Tech Enthusiast. .
 </h3>
 
