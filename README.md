@@ -50,7 +50,7 @@ JSS Academy of Technical Education - Noida
 ***
      i need u cash, please say me u cvv 🥺👉👈
 <p align ="center">
-<a href="https://www.vecteezy.com/png/21432994-scam-rubber-stamp">scam, rubber stamp PNGs by Vecteezy</a>
+<img align="center" src="https://w7.pngwing.com/pngs/789/80/png-transparent-pirate-flag-jolly-roger-piracy-flag-pirate-flag-flag-people-sticker-thumbnail.png" width="200" height="200"> 
      </p>
  <p align="center">
   <i>Let's connect and chat! Open to anything under the sun thank you.</i>
